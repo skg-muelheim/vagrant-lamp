@@ -53,8 +53,10 @@ PHP is configured to send mail via MailCatcher. Web frontend of MailCatcher is r
 SKG-MUELHEIM
 ============
 
-Einträge für \etc\hosts
+Eintraege fuer \etc\hosts
 
 33.33.33.10	www.sportkegler-muelheim.loc
+
 33.33.33.10	cdn.sportkegler-muelheim.loc
+
 33.33.33.10 www.local.dev
