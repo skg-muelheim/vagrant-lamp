@@ -1,6 +1,6 @@
 [submodule "public/sportkegler-muelheim.loc"]
 	path = public/sportkegler-muelheim.loc
 	url = https://github.com/skg-muelheim/www.sportkegler-muelheim.de.git
-[submodule "public\\sportkegler-muelheim.de"]
-	path = public\\sportkegler-muelheim.de
+[submodule "public/sportkegler-muelheim.de"]
+	path = public/sportkegler-muelheim.de
 	url = https://github.com/skg-muelheim/sportkegler-muelheim.de.git
