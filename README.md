@@ -48,3 +48,13 @@ Webgrind and phpMyAdmin are available on every domain. For example:
 PHP is configured to send mail via MailCatcher. Web frontend of MailCatcher is running on port 1080 and also available on every domain:
 
 * http://local.dev:1080
+
+
+SKG-MUELHEIM
+============
+
+Einträge für \etc\hosts
+
+33.33.33.10	www.sportkegler-muelheim.loc
+33.33.33.10	cdn.sportkegler-muelheim.loc
+33.33.33.10 www.local.dev

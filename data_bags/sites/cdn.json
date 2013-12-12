@@ -1,0 +1,8 @@
+{
+    "id": "cdn",
+    "host": "cdn.sportkegler-muelheim.loc",
+	"docroot": "/vagrant/public/sportkegler-muelheim.de/cdn",
+    "aliases": [
+        "cdn.sportkegler-muelheim.loc"
+    ]
+}

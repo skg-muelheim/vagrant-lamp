@@ -1,7 +1,9 @@
 {
     "id": "www",
     "host": "sportkegler-muelheim.loc",
+	"docroot": "/vagrant/public/sportkegler-muelheim.de/www",
     "aliases": [
+        "sportkegler-muelheim.loc",
         "www.sportkegler-muelheim.loc"
     ]
 }
